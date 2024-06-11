@@ -10,8 +10,7 @@ export const data ={
             "rating": {
                 "rate": 3.9,
                 "count": 120
-            },
-            "stock": 10
+            }
         },
         {
             "id": 2,
@@ -23,8 +22,7 @@ export const data ={
             "rating": {
                 "rate": 4.1,
                 "count": 259
-            },
-            "stock": 10
+            }
         },
         {
             "id": 3,
@@ -36,8 +34,7 @@ export const data ={
             "rating": {
                 "rate": 4.7,
                 "count": 500
-            },
-            "stock": 10
+            }
         },
         {
             "id": 4,
@@ -49,12 +46,11 @@ export const data ={
             "rating": {
                 "rate": 2.1,
                 "count": 430
-            },
-            "stock": 10
+            }
         },
         {
             "id": 5,
-            "title": "Gold & silver dragon chain bracelet",
+            "title": "Gold & silver dragon chain",
             "price": 695,
             "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
             "category": "jewelery",
@@ -62,8 +58,7 @@ export const data ={
             "rating": {
                 "rate": 4.6,
                 "count": 400
-            },
-            "stock": 10
+            }
         },
         {
             "id": 6,
@@ -75,8 +70,7 @@ export const data ={
             "rating": {
                 "rate": 3.9,
                 "count": 70
-            },
-            "stock": 10
+            }
         },
         {
             "id": 7,
@@ -88,12 +82,11 @@ export const data ={
             "rating": {
                 "rate": 3,
                 "count": 400
-            },
-            "stock": 10
+            }
         },
         {
             "id": 8,
-            "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "title": "Owl Rose Gold Ear Rings",
             "price": 10.99,
             "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
             "category": "jewelery",
@@ -101,8 +94,7 @@ export const data ={
             "rating": {
                 "rate": 1.9,
                 "count": 100
-            },
-            "stock": 10
+            }
         },
     ]
 }
