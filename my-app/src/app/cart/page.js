@@ -7,6 +7,7 @@ import Link from "next/link";
 
 export default function Page(){
 
+
     const items = useSelector(selectCartItems);
     const totalPrice = useSelector(selectTotalPrice);
 
