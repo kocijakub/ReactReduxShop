@@ -5,7 +5,7 @@ import {CartCard} from "@/components/CartCard";
 import {selectCartItems, selectTotalPrice} from "@/redux/selectors";
 import Link from "next/link";
 
-export default function page(){
+export default function Page(){
 
     const items = useSelector(selectCartItems);
     const totalPrice = useSelector(selectTotalPrice);

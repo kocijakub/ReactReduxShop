@@ -1,7 +1,5 @@
 import { data } from "@/utils/data";
 import React from "react";
-import {useDispatch} from "react-redux";
-import {add} from "@/redux/CartSlice";
 import {CardDetail} from "@/components/CardDetail";
 
 export default function Detail({ params }) {
